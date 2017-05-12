@@ -27,7 +27,7 @@ class OuijaBoard:
   """
   
   def __init__(self,
-    channels = [ 12, 13, 14, 15, 16 ]):
+    channels = [ 5, 6, 13, 19, 26 ]):
 
     self.channels = channels
 
